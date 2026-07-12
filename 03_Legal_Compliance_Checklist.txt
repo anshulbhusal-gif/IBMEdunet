@@ -1,0 +1,59 @@
+LEGAL & COMPLIANCE REQUIREMENTS FOR NEW STARTUPS - INDIA (Reference for Startup Blueprint Generator)
+
+1. BUSINESS REGISTRATION TYPES
+
+Sole Proprietorship
+- Simplest form, single owner, unlimited personal liability
+- Best for: Very small, low-risk businesses, freelancers
+
+Partnership Firm
+- Two or more partners, governed by Indian Partnership Act 1932
+- Unlimited liability unless registered as LLP
+
+Limited Liability Partnership (LLP)
+- Combines partnership flexibility with limited liability protection
+- Good for: Professional services, small teams wanting liability protection without heavy compliance
+
+Private Limited Company (Pvt Ltd)
+- Most common structure for startups seeking investment
+- Limited liability, separate legal entity, easier to raise VC funding
+- Requires minimum 2 directors, 2 shareholders, registered office
+- Governed by Companies Act 2013, registered via MCA (Ministry of Corporate Affairs)
+
+One Person Company (OPC)
+- Single founder wants limited liability and company structure
+- Fewer compliance requirements than Pvt Ltd but has limits on further fundraising flexibility
+
+2. CORE REGISTRATIONS AND COMPLIANCE STEPS
+
+- PAN and TAN registration for the business entity
+- GST Registration: mandatory if annual turnover exceeds threshold (currently INR 20 lakh for services, INR 40 lakh for goods, varies by state); voluntary registration also possible for input credit benefits
+- Udyam Registration (MSME): free registration for micro/small/medium enterprise benefits
+- DPIIT Startup Recognition: apply via Startup India portal for tax and compliance benefits
+- Shops and Establishment Act registration (state-specific, required for physical business premises)
+- Professional Tax registration (state-specific, applicable in Maharashtra and other states)
+
+3. INTELLECTUAL PROPERTY BASICS
+
+- Trademark registration: protects brand name/logo, filed with Indian Trademark Registry, DPIIT-recognized startups get 50% rebate on filing fees
+- Patent: for novel inventions/processes, DPIIT-recognized startups get 80% rebate on filing fees and fast-track examination
+- Copyright: automatically applies to original creative/software work but formal registration strengthens legal standing
+- Trade secrets: protect via confidentiality agreements (NDAs) with employees, contractors, partners
+
+4. EMPLOYMENT AND LABOR COMPLIANCE
+
+- Employment agreements/offer letters with clear terms
+- Provident Fund (PF) and Employee State Insurance (ESI) registration once employee count crosses statutory thresholds
+- DPIIT-recognized startups can self-certify compliance with 6 labor laws and 3 environmental laws for 3-5 years, reducing inspection burden
+
+5. DATA PROTECTION AND SECTOR-SPECIFIC COMPLIANCE
+
+- Digital Personal Data Protection Act (DPDPA) compliance if handling user personal data
+- Sector-specific licenses may apply: FSSAI for food businesses, RBI/NBFC registration for fintech lending, drug license for healthtech/pharma
+
+6. FOUNDER AGREEMENTS
+
+- Founders' agreement covering equity split, vesting schedule, roles, exit clauses - strongly recommended before incorporation
+- Vesting typically over 4 years with a 1-year cliff to protect against early co-founder departure
+
+USAGE NOTE FOR AGENT: Recommend Pvt Ltd as default structure when the user plans to raise external funding; recommend LLP or OPC for smaller, self-funded, low-fundraising-intent ventures. Always flag GST, DPIIT recognition, and founders' agreement as near-universal first steps regardless of sector.

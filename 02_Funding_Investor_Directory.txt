@@ -1,0 +1,63 @@
+FUNDING OPTIONS & INVESTOR DIRECTORY (Reference for Startup Blueprint Generator)
+
+STAGES OF STARTUP FUNDING
+
+1. BOOTSTRAPPING (Pre-Seed / Idea Stage)
+- Self-funding, savings, or funds from family and friends
+- Typical amount: Under INR 10 lakh
+- Best for: Validating idea, building MVP, testing initial demand
+
+2. SEED STAGE
+- First formal external funding round
+- Sources: Angel investors, seed-stage VCs, government seed fund schemes (e.g. SISFS)
+- Typical amount: INR 20 lakh to INR 2 crore
+- Used for: Product development, initial team hiring, early market entry
+
+3. SERIES A
+- Sources: Venture Capital firms
+- Typical amount: INR 4 crore to INR 40 crore
+- Used for: Scaling operations, expanding team, entering new markets, proven product-market fit required
+
+4. SERIES B AND BEYOND
+- Larger VC rounds and growth equity funds
+- Used for: Major scaling, geographic expansion, acquisitions
+
+FUNDING SOURCE CATEGORIES
+
+Angel Investors and Angel Networks (India)
+- Indian Angel Network (IAN)
+- Mumbai Angels
+- Lead Angels
+- Chennai Angels
+- AngelList India
+
+Venture Capital Firms (India-focused, early-stage)
+- Sequoia Capital India (Peak XV Partners)
+- Accel India
+- Blume Ventures
+- Kalaari Capital
+- Matrix Partners India
+- 3one4 Capital
+- Nexus Venture Partners
+
+Incubators and Accelerators
+- T-Hub (Hyderabad)
+- NASSCOM 10,000 Startups
+- Startup India Seed Fund network incubators
+- IIT/IIM incubation cells (e.g. SINE-IIT Bombay, CIIE-IIM Ahmedabad)
+- Venture Center (Pune) - relevant for Pune-based startups, focused on science and technology startups
+
+Crowdfunding Platforms
+- Ketto, Wishberry (reward/donation-based)
+- Equity crowdfunding is restricted in India under current SEBI regulations
+
+Government-backed Funding
+- Startup India Seed Fund Scheme (SISFS)
+- SIDBI Fund of Funds
+- Credit Guarantee Scheme for Startups (CGSS)
+
+MATCHING GUIDANCE FOR AGENT
+- Idea stage / no product yet -> suggest bootstrapping, friends/family, government seed grants, incubator applications
+- MVP built, early users -> suggest angel investors, angel networks, seed-stage VCs, SISFS
+- Proven traction, revenue -> suggest Series A VCs matching the sector
+- Always mention that actual investor outreach requires warm introductions, a pitch deck, and financial projections; this list is a starting point for research, not a guarantee of funding

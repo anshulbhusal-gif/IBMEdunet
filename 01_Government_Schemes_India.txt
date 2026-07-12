@@ -1,0 +1,42 @@
+GOVERNMENT STARTUP SCHEMES - INDIA (Reference for Startup Blueprint Generator)
+
+1. STARTUP INDIA INITIATIVE
+- Launched by DPIIT (Department for Promotion of Industry and Internal Trade)
+- Benefits: 3-year income tax exemption (under Section 80-IAC), self-certification for labor/environment laws, easier public procurement norms, fast-track patent examination with 80% rebate on filing fees
+- Eligibility: Entity must be a private limited company, LLP, or registered partnership firm; less than 10 years old; annual turnover less than INR 100 crore; must be working toward innovation or improvement of products/services
+- Process: Register on startupindia.gov.in, get DPIIT recognition certificate
+
+2. STARTUP INDIA SEED FUND SCHEME (SISFS)
+- Provides financial assistance for proof of concept, prototype development, product trials, market entry, and commercialization
+- Funding up to INR 20 lakh as grant for validation of proof of concept
+- Up to INR 50 lakh as investment for market entry, commercialization, scaling
+- Disbursed through eligible incubators, not directly to startups
+
+3. CREDIT GUARANTEE SCHEME FOR STARTUPS (CGSS)
+- Provides collateral-free debt funding to DPIIT-recognized startups
+- Guarantee cover on loans extended by banks/NBFCs/Alternative Investment Funds
+
+4. FUND OF FUNDS FOR STARTUPS (FFS)
+- Managed by SIDBI (Small Industries Development Bank of India)
+- Corpus of INR 10,000 crore, invests in SEBI-registered Alternative Investment Funds who then invest in startups
+- Not a direct funding scheme; startups benefit indirectly through AIF investments
+
+5. MSME SCHEMES (Ministry of MSME)
+- Udyam Registration: free online registration for micro, small, medium enterprises; enables access to priority sector lending, subsidies
+- Credit Guarantee Fund Trust for Micro and Small Enterprises (CGTMSE): collateral-free loans up to INR 2 crore
+- Prime Minister's Employment Generation Programme (PMEGP): subsidy for setting up micro-enterprises, especially in manufacturing and service sectors
+
+6. STATE-LEVEL SCHEMES (Example: Maharashtra, relevant for Pune-based startups)
+- Maharashtra State Innovation Society (MSInS) supports incubation, mentorship, seed funding through state startup policy
+- State-recognized incubators offer co-working space, mentorship, and access to seed grants
+- Sector-specific cells for agritech, healthtech, fintech innovation support
+
+7. ATAL INNOVATION MISSION (AIM) / NITI Aayog
+- Supports Atal Incubation Centres (AICs) across India providing infrastructure, mentorship, funding access
+- Startups can apply for incubation support through AIC-affiliated institutions
+
+8. STAND-UP INDIA SCHEME
+- Bank loans between INR 10 lakh and INR 1 crore for at least one SC/ST and one woman entrepreneur per bank branch
+- For setting up greenfield enterprises in manufacturing, services, or trading sector
+
+USAGE NOTE FOR AGENT: When a user describes a startup idea, match relevant schemes based on sector (tech/manufacturing/services), founder profile (if mentioned), and funding stage (idea/prototype/scaling) to suggest the most applicable 2-3 schemes.

@@ -1,0 +1,82 @@
+BUSINESS MODEL CANVAS & REVENUE MODEL TEMPLATES (Reference for Startup Blueprint Generator)
+
+BUSINESS MODEL CANVAS - 9 BUILDING BLOCKS
+
+1. Customer Segments
+- Who are you creating value for? Define primary user/customer groups (e.g. mass market, niche market, segmented, multi-sided platform)
+
+2. Value Proposition
+- What problem are you solving, and what unique value do you deliver? Focus on the core benefit that differentiates the offering from alternatives
+
+3. Channels
+- How will you reach and deliver value to customers? (e.g. direct sales, app/website, partner distribution, social media, marketplaces)
+
+4. Customer Relationships
+- What type of relationship does each customer segment expect? (e.g. self-service, personal assistance, automated services, community-driven)
+
+5. Revenue Streams
+- How does the business earn money from each customer segment? (see revenue models below)
+
+6. Key Resources
+- What assets are required to make the business model work? (e.g. technology/IP, physical infrastructure, human capital, financial capital)
+
+7. Key Activities
+- What are the most important things the business must do to operate? (e.g. product development, platform maintenance, supply chain management, marketing)
+
+8. Key Partnerships
+- Who are the suppliers/partners needed? (e.g. technology partners, distribution partners, government bodies, incubators)
+
+9. Cost Structure
+- What are the major costs involved? (e.g. fixed costs like salaries/rent, variable costs like customer acquisition, technology infrastructure costs)
+
+COMMON REVENUE MODELS
+
+Subscription Model
+- Recurring fee (monthly/annual) for continued access to product/service
+- Best for: SaaS, content platforms, membership services
+
+Freemium Model
+- Basic features free, premium features paid
+- Best for: Apps and platforms aiming for high user acquisition first, monetization later
+
+Marketplace Commission
+- Percentage fee on transactions between buyers and sellers on the platform
+- Best for: Two-sided marketplaces (e.g. e-commerce, service marketplaces, gig platforms)
+
+Transaction/Usage-Based Fee
+- Pay-per-use or pay-per-transaction pricing
+- Best for: Payment platforms, API/infrastructure products, logistics
+
+Licensing Model
+- Charge other businesses to use your technology, IP, or content
+- Best for: B2B tech companies, content creators
+
+Advertising Model
+- Revenue from displaying ads to a large user base
+- Best for: High-traffic content platforms, media, social apps
+
+Direct Sales / One-Time Purchase
+- Single upfront payment for a product
+- Best for: Physical products, one-time software licenses
+
+Hybrid Models
+- Combining two or more of the above (e.g. freemium + advertising, subscription + marketplace commission)
+
+BUDGET ESTIMATION FRAMEWORK (Reference categories for 6-month runway estimate)
+
+- Product Development: technology/development costs, tools, hosting/cloud infrastructure
+- Team/Salaries: founder/core team compensation (even if minimal at early stage)
+- Legal & Compliance: registration fees, trademark filing, contracts/agreements
+- Marketing & Customer Acquisition: digital marketing, content, launch campaigns
+- Operations: office/co-working space, utilities, software subscriptions
+- Contingency Buffer: typically 10-15% of total budget for unplanned expenses
+
+GO-TO-MARKET STRATEGY FRAMEWORK
+
+1. Target Segment Definition - identify the beachhead market (narrowest viable starting segment)
+2. Positioning - what makes the offering distinct in that segment
+3. Channel Strategy - primary acquisition channels (organic, paid, partnerships, direct sales)
+4. Launch Plan - phased rollout (soft launch/beta, public launch, scale-up)
+5. Early Traction Metrics - what to measure in first 90 days (signups, retention, revenue, feedback)
+
+USAGE NOTE FOR AGENT: When generating a blueprint, fill each of the 9 Business Model Canvas blocks specifically for the user's idea (not generically), select the most fitting revenue model(s) based on the product type, and produce a go-to-market plan following the 5-step framework above.
